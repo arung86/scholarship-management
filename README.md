@@ -21,3 +21,20 @@ Part 1
 Part 2
    node / php slim ( REST Implement)
    mangodb/mysql
+
+# Javascript - Learning
+## So far
+0.9 why Javascript and where is JavaScript
+0. Javascript and ECMA
+1. Variable and function Declaration
+2. Data types
+3. Statements and Opertators
+
+
+## Up next: 
+// Variable Hoisting, function Hoisting
+// Strict Mode ( 'use strict')
+// scope and iife
+// objects and constructor
+// Arrays and Array Methods
+// Regular Expressions. 
